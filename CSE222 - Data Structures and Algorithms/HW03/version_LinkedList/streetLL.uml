@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>hw3.version_LinkedList.streetLL</OriginalElement>
+  <nodes>
+    <node x="1094.7570621468926" y="318.63954802259883">hw3.version_LinkedList.cityPlanTest</node>
+    <node x="514.0" y="456.81977401129944">hw3.version_LinkedList.playground</node>
+    <node x="0.0" y="681.6395480225988">hw3.version_LinkedList.house</node>
+    <node x="548.0" y="714.6395480225988">hw3.version_LinkedList.office</node>
+    <node x="294.0" y="445.31977401129944">hw3.version_LinkedList.buildings</node>
+    <node x="260.0" y="582.6395480225988">hw3.version_LinkedList.market</node>
+    <node x="799.6553672316384" y="224.59937807281125">hw3.version_LinkedList.streetLL</node>
+    <node x="407.25" y="132.00000000000006">hw3.version_LinkedList.buildTypes</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="hw3.version_LinkedList.buildings" target="hw3.version_LinkedList.buildTypes" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="394.0" y="433.00000000000006" />
+      <point x="492.75" y="433.00000000000006" />
+      <point x="0.0" y="138.0" />
+    </edge>
+    <edge source="hw3.version_LinkedList.market" target="hw3.version_LinkedList.buildings" relationship="GENERALIZATION">
+      <point x="0.0" y="-193.0" />
+      <point x="394.0" y="504.3197740112994" />
+      <point x="394.0" y="504.3197740112994" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="hw3.version_LinkedList.office" target="hw3.version_LinkedList.buildings" relationship="GENERALIZATION">
+      <point x="0.0" y="-61.0" />
+      <point x="657.0" y="570.3197740112994" />
+      <point x="394.0" y="570.3197740112994" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="hw3.version_LinkedList.house" target="hw3.version_LinkedList.buildings" relationship="GENERALIZATION">
+      <point x="0.0" y="-94.0" />
+      <point x="120.0" y="570.3197740112994" />
+      <point x="394.0" y="570.3197740112994" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="hw3.version_LinkedList.playground" target="hw3.version_LinkedList.buildTypes" relationship="GENERALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="591.5" y="433.00000000000006" />
+      <point x="492.75" y="433.00000000000006" />
+      <point x="0.0" y="138.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0314741035856574" showDependencies="false" x="629.6308940694335" y="556.9976825028969" />
+  <SelectedNodes>
+    <node>hw3.version_LinkedList.streetLL</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>hw3.version_ArrayList.streetAL</OriginalElement>
+  <nodes>
+    <node x="825.542294322132" y="129.79018664362272">hw3.version_ArrayList.streetAL</node>
+    <node x="238.0" y="690.7152542372883">hw3.version_ArrayList.house</node>
+    <node x="258.0" y="433.35762711864413">hw3.version_ArrayList.buildings</node>
+    <node x="371.25" y="116.85112994350284">hw3.version_ArrayList.buildTypes</node>
+    <node x="478.0" y="450.6853107344633">hw3.version_ArrayList.playground</node>
+    <node x="498.0" y="573.8641242937854">hw3.version_ArrayList.market</node>
+    <node x="1103.0" y="197.49838495328993">hw3.version_ArrayList.cityPlanTest</node>
+    <node x="0.0" y="723.7152542372883">hw3.version_ArrayList.office</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="hw3.version_ArrayList.buildings" target="hw3.version_ArrayList.buildTypes" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="358.0" y="412.17881355932207" />
+      <point x="456.75" y="412.17881355932207" />
+      <point x="0.0" y="138.0" />
+    </edge>
+    <edge source="hw3.version_ArrayList.house" target="hw3.version_ArrayList.buildings" relationship="GENERALIZATION">
+      <point x="0.0" y="-94.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="hw3.version_ArrayList.market" target="hw3.version_ArrayList.buildings" relationship="GENERALIZATION">
+      <point x="0.0" y="-193.0" />
+      <point x="632.0" y="566.7152542372883" />
+      <point x="358.0" y="566.7152542372883" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="hw3.version_ArrayList.playground" target="hw3.version_ArrayList.buildTypes" relationship="GENERALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="555.5" y="412.17881355932207" />
+      <point x="456.75" y="412.17881355932207" />
+      <point x="0.0" y="138.0" />
+    </edge>
+    <edge source="hw3.version_ArrayList.office" target="hw3.version_ArrayList.buildings" relationship="GENERALIZATION">
+      <point x="0.0" y="-61.0" />
+      <point x="109.0" y="566.7152542372883" />
+      <point x="358.0" y="566.7152542372883" />
+      <point x="0.0" y="50.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0314741035856574" showDependencies="false" x="506.23317556022545" y="544.9976825028969" />
+  <SelectedNodes>
+    <node>hw3.version_ArrayList.cityPlanTest</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
